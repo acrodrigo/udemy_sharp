@@ -1,6 +1,7 @@
 using System;
 
-namespace SalesWebMVC.Models {
+// Atencao pois no projeto do curso eh namespace SalesWebMVC.Models.ViewModels
+namespace SalesWebMVC.Models.ViewModels {
     public class ErrorViewModel {
         public string RequestId { get; set; }
 
